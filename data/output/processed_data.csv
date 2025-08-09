@@ -1,0 +1,11 @@
+id,name,age,email,join_date,processing_timestamp,days_since_joining
+1,John Smith,32,john.smith@example.com,2020-01-15,2025-08-09 09:59:19,2033
+2,Emily Johnson,28,emily.johnson@example.com,2019-11-03,2025-08-09 09:59:19,2106
+3,Michael Brown,41,michael.brown@example.com,2021-02-20,2025-08-09 09:59:19,1631
+4,Sarah Davis,35,sarah.davis@example.com,2020-07-12,2025-08-09 09:59:19,1854
+5,David Wilson,29,david.wilson@example.com,2022-01-05,2025-08-09 09:59:19,1312
+6,Laura Martinez,33,laura.martinez@example.com,2021-09-10,2025-08-09 09:59:19,1429
+7,James Taylor,27,james.taylor@example.com,2020-03-22,2025-08-09 09:59:19,1966
+8,Anna Clark,39,anna.clark@example.com,2019-06-18,2025-08-09 09:59:19,2244
+9,Robert Lee,30,robert.lee@example.com,2022-04-07,2025-08-09 09:59:19,1220
+10,Jessica White,36,jessica.white@example.com,2021-12-01,2025-08-09 09:59:19,1347
